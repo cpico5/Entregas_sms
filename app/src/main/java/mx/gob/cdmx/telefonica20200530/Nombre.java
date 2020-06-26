@@ -3,7 +3,7 @@ package mx.gob.cdmx.telefonica20200530;
 public class Nombre  {
 
     public static final String customURL = "https://opinion.cdmx.gob.mx/telefonica/";
-    public static final String encuesta = "telefonica_20200530";
+    public static final String encuesta = "telefonica_20200630";
     public static final String USUARIO = "usuario";
     public static final String PADRON = "padron";
     public static final String LATITUDE = "latitude";
@@ -12,13 +12,13 @@ public class Nombre  {
 
     public String nombreEncuesta(){
 
-        final String nombreEncuesta = "telefonica_20200530";
+        final String nombreEncuesta = "telefonica_20200630";
         return nombreEncuesta;
     }
 
     public String nombreDatos(){
 
-        final String nombreEncuesta = "datos_telefonica_20200530";
+        final String nombreEncuesta = "datos_telefonica_20200630";
         return nombreEncuesta;
     }
 
