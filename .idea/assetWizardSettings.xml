@@ -318,8 +318,9 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_telefonos_v" />
-                            <entry key="sourceFile" value="C:\Ulises\new_app\telefonos_v.svg" />
+                            <entry key="autoMirrored" value="true" />
+                            <entry key="outputName" value="ic_fondo" />
+                            <entry key="sourceFile" value="C:\Ulises\new_app\fondo.svg" />
                           </map>
                         </option>
                       </PersistentState>
