@@ -49,7 +49,7 @@ android:button="@drawable/radiobutton_selector"
 android:textColor="@drawable/radiobutton_color_selector"
 android:textSize="16sp"
 android:theme="@style/RadioButton"
-android:text="Saldrá usando tapabocas, respetando la sana distancia y usando varias veces al día gel antibacterial y teniendo mucho cuidado al regresar a casa"
+android:text="Si"
 />
 
   <RadioButton
@@ -61,31 +61,7 @@ android:button="@drawable/radiobutton_selector"
 android:textColor="@drawable/radiobutton_color_selector"
 android:textSize="16sp"
 android:theme="@style/RadioButton"
-android:text="Saldrá normal, solo respetando las medidas que tenga cada lugar al que vaya"
-/>
-
-  <RadioButton
-  android:id="@+id/radio3"
-  
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
-android:button="@drawable/radiobutton_selector"
-android:textColor="@drawable/radiobutton_color_selector"
-android:textSize="16sp"
-android:theme="@style/RadioButton"
-android:text="Saldrá sin ninguna medida adicional, pues no es necesaria"
-/>
-
-  <RadioButton
-  android:id="@+id/radio4"
-  
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
-android:button="@drawable/radiobutton_selector"
-android:textColor="@drawable/radiobutton_color_selector"
-android:textSize="16sp"
-android:theme="@style/RadioButton"
-android:text="Hasta ahora ha salido normalmente"
+android:text="No"
 />
 
   <RadioButton

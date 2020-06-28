@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="PROJECT" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mx/gob/cdmx/entregassms/MainActivityPantalla1.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mx/gob/cdmx/entregassms/UnCaughtException.java" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="ISO-8859-1" />
   </component>
 </project>

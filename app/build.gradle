@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     buildToolsVersion "29.0.1"
-    compileOptions.encoding = 'windows-1251' // write your encoding here
+    compileOptions.encoding = 'iso-8859-1' // write your encoding here
 
     defaultConfig {
-        applicationId 'mx.gob.cdmx.telefonica20200530'
+        applicationId 'mx.gob.cdmx.entregassms'
         minSdkVersion 21
         targetSdkVersion 27
     }
@@ -44,4 +44,6 @@ dependencies {
     implementation 'com.android.support:cardview-v7:27.1.1'
     implementation 'pub.devrel:easypermissions:0.2.0'
     implementation 'com.google.android.gms:play-services-plus:7.8.0'
+
+    implementation 'com.mcxiaoke.volley:library:1.0.+'
 }

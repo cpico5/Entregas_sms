@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Telefónica 20200530 v1</string>
+    <string name="app_name">Entrega SMS v1.0</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="zona">zona</string>
@@ -57,40 +57,38 @@
     <string name="Peores">Peores</string>
     <string name="Mpeores">Mucho peores</string>
 
-    <string name="PREGUNTAvive">¿Me podría decir si usted vive en la Ciudad de México?</string>
-    <string name="PREGUNTA0">Solo para clasificación, ¿podría decirme en que Alcaldía?</string>
     <string name="PREGUNTA1">¿Cómo se entera Usted de las noticias regularmente?</string>
     <string name="PREGUNTA2">Sólo como información, NO le voy a solicitar datos o sus cuentas ¿Usted tiene cuenta personal en Facebook?</string>
     <string name="PREGUNTA3">¿Tiene cuenta personal en Twitter?</string>
-    <string name="PREGUNTA4">Hablando ahora de la Ciudad de México y de su gobierno, con lo que Ud. sabe, ¿está de acuerdo o en desacuerdo con el trabajo realizado hasta ahora por la Jefa de Gobierno, Claudia Sheinbaum?</string>
-    <string name="PREGUNTA5">¿Usted utiliza WhatsApp?</string>
-    <string name="PREGUNTAc1">El gobierno de la Ciudad de México esta planteando un regreso a las actividades cotidianas de manera escalonada, usted ¿en qué mes piensa que se debería regresar a las siguientes actividades… (espontánea)</string>
-    <string name="PREGUNTAc1a">Regreso de los niños a las escuelas</string>
-    <string name="PREGUNTAc1b">Restaurantes/ cafeterías y centros comerciales </string>
-    <string name="PREGUNTAc1c">Negocios como estéticas/ papelerías/ negocios locales</string>
-    <string name="PREGUNTAc1d">Cines/ teatros/ museos</string>
-    <string name="PREGUNTAc1e">Eventos deportivos como futbol/ beisbol/ maratones, etc.</string>
-    <string name="PREGUNTAc1f">Festivales de música y eventos masivos</string>
-    <string name="PREGUNTAc1g">Salones de fiestas/ congresos/ reuniones familiares de más de 50 personas</string>
-    <string name="PREGUNTAc1h">Oficinas y centros de trabajo que están trabajando desde casa</string>
-    <string name="PREGUNTAc2">A partir del primero de Julio que frase se acerca más a cómo usted retomará sus actividades…</string>
-    <string name="PREGUNTAc3">¿Cuándo piensa usted retomar las siguientes actividades? (espontánea)</string>
-    <string name="PREGUNTAc3a">Visitar o reunirse con amigos</string>
-    <string name="PREGUNTAc3b">Hacer compras en tiendas departamentales/ y centros comerciales que no sean de alimentos</string>
-    <string name="PREGUNTAc3c">Salir a fiestas familiares y reuniones sociales</string>
-    <string name="PREGUNTAc3d">Ir a su centro de trabajo o estudios de manera regular</string>
-    <string name="PREGUNTAc3e">Ir al cine y espectáculos públicos</string>
-    <string name="PREGUNTAc4">¿Cuándo piensa usted...? (espontánea)</string>
-    <string name="PREGUNTAc4a">Dejar de usar cubrebocas y/o caretas</string>
-    <string name="PREGUNTAc4b">Dejar de aplicar la sana distancia en lugares públicos y de trabajo</string>
-    <string name="PREGUNTAc4c">Saludar de mano o beso</string>
-    <string name="PREGUNTAc5">En la última semana usted qué ha sensación ha tenido más...? </string>
-    <string name="PREGUNTAc5a">Ansiedad</string>
-    <string name="PREGUNTAc5b">Felicidad</string>
-    <string name="PREGUNTAc5c">Alegría</string>
-    <string name="PREGUNTAc5d">Frustración</string>
-    <string name="PREGUNTAc5e">Confianza</string>
-    <string name="PREGUNTAc6">¿Qué tan probable cree que sea que usted se contagie de coronavirus en algún momento de este año?</string>
+    <string name="PREGUNTA4">¿Usted utiliza WhatsApp?</string>
+    <string name="PREGUNTA5">Con lo que usted sabe ¿está de acuerdo, o en desacuerdo con el trabajo realizado hasta ahora por el Presidente de la República, Andrés Manuel López Obrador?</string>
+    <string name="PREGUNTA6">Con lo que usted sabe, ¿piensa que el presidente Andrés Manuel López Obrador tiene las riendas del país en la mano?</string>
+    <string name="PREGUNTA7">Hablando ahora de la Ciudad de México y de su gobierno, con lo que Ud. sabe, ¿está de acuerdo o en desacuerdo con el trabajo realizado hasta ahora por la Jefa de Gobierno, Claudia Sheinbaum?</string>
+    <string name="PREGUNTAc1">¿Qué tan probable cree que sea que usted se contagie de coronavirus en algún momento de este año, muy probable, probable, poco probable o nada probable? </string>
+    <string name="PREGUNTAc2">Dígame, por favor si se enteró de que en la Ciudad de México empezó la transición ordenada y gradual hacia el color naranja del semáforo de la Secretaria de Salud</string>
+    <string name="PREGUNTAc3">¿Usted piensa salir de su casa esta semana?</string>
+    <string name="PREGUNTAc4">¿Cuándo sale, usted usa cubrebocas: todas las veces, la mayoría de las veces, algunas veces o nunca?</string>
+    <string name="PREGUNTAc5">¿Cuándo sale usted aplica la sana distancia (estar a metro y medio de otras personas): todas las veces, la mayoría de las veces, algunas veces o nunca)</string>
+    <string name="PREGUNTAc6">¿Usted conoce el sistema de mensajes SMS 51515 para casos de síntomas de COVID19?</string>
+    <string name="PREGUNTAc6a">¿Usted o algún familiar que viva con usted lo ha usado?</string>
+    <string name="PREGUNTAc6b">¿Lo usaría en caso de que usted o algún familiar que viva en su casa se sintiera mal?</string>
+    <string name="PREGUNTAc7">¿En su casa hay personas mayores de edad, embarazadas o con diabetes, obesidad, hipertensión, cáncer u alguna otra enfermedad que le ponga en riesgo?</string>
+    <string name="PREGUNTAc7a">¿Tienen algún cuidado especial para ellas para evitar el contagio de COVID 19?</string>
+    <string name="PREGUNTAc8">¿Está usted enterado que el pasado 15 de junio finalizó el programa "Hoy no circula temporal"</string>
+    <string name="PREGUNTAc8a">¿Está usted de acuerdo o en desacuerdo con esta medida? (No leer ni de acuerdo, ni en desacuerdo)</string>
+    <string name="PREGUNTAc9">¿Usted sabe que a partir del 15 de junio se liberaron las estaciones del metro y metrobus para quedar en funcionamiento la totalidad de las líneas?</string>
+    <string name="PREGUNTAc9a">¿Está usted de acuerdo o en desacuerdo con esta medida? (No leer ni de acuerdo, ni en desacuerdo)</string>
+    <string name="PREGUNTAc10">¿Está usted enterado que desde el 16 y 19 de junio se permite la operación escalonada de la industria manufacturera y los servicios profesionales, científicos y técnicos?</string>
+    <string name="PREGUNTAc10a">¿Está usted de acuerdo o en desacuerdo con esta medida? (No leer ni de acuerdo, ni en desacuerdo)</string>
+    <string name="PREGUNTAc11">¿Usted sabe que desde el 18 de junio se permite la operación de los comercios de barrio?</string>
+    <string name="PREGUNTAc11a">¿Está usted de acuerdo o en desacuerdo con esta medida? (No leer ni de acuerdo, ni en desacuerdo)</string>
+    <string name="PREGUNTAc12">¿Está usted enterado que probablemente a finales de junio se permitirá la reapertura de tianguis y mercados y comercios del Centro Histórico?</string>
+    <string name="PREGUNTAc12a">¿Está usted de acuerdo o en desacuerdo con esta medida? (No leer ni de acuerdo, ni en desacuerdo)</string>
+    <string name="PREGUNTAc13">¿Usted sabe que probablemente a principios de julio se permitirá la reapertura de hoteles, restaurantes, centros comerciales, tiendas departamentales y servicios religiosos al 30 o 50% de su capacidad?</string>
+    <string name="PREGUNTAc13a">¿Está usted de acuerdo o en desacuerdo con esta medida? (No leer ni de acuerdo, ni en desacuerdo)</string>
+    <string name="PREGUNTAc14">En las últimas dos semanas,  ¿ha visitado su hogar personal del Gobierno de la Ciudad para informarle a usted o algún familiar sobre medidas de prevención y cuidado durante la pandemia de Coronavirus?</string>
+    <string name="PREGUNTAc15">¿Usted ha visto en su colonia trípticos, folletos o carteles del Gobierno de la Ciudad para informar sobre medidas de prevención y cuidado durante la pandemia de Coronavirus?</string>
+
 
     <string name="PREGUNTAATRIBUTOS">De los siguientes atributos personales, ¿cuáles cree usted que sí o que no tiene la Jefa de Gobierno, Claudia Sheinbaum?</string>
     <string name="PREGUNTAEST">Para terminar le voy a realizar algunas preguntas para la estadística</string>
@@ -100,7 +98,7 @@
     <string name="PREGUNTACOCHE">¿Tiene automóvil propio?</string>
     <string name="PREGUNTACUANTOSCOCHES">¿Cuántos coches tienen en su vivienda?</string>
     <string name="PREGUNTACUARTOS">Sin contar baño ni cocina, ¿cuántos cuartos tiene su vivienda?</string>
-    <string name="PREGUNTACUARTOSDORMIR">¿Cuántos cuartos se usan para dormir en su domicilio?</string>
+    <string name="PREGUNTACUARTOSDORMIR">En esta vivienda, ¿cuántos cuartos se usan para dormir, sin contar pasillos ni baños?</string>
     <string name="PREGUNTAFOCOS">¿Cuántos focos tiene su vivienda?</string>
     <string name="PREGUNTABANOS">¿Cuántos baños completos con regadera y W.C. (excusado) hay en esta vivienda?</string>
     <string name="PREGUNTAINTERNET">Sin tomar en cuenta la conexión móvil que pudiera tener desde algún celular ¿este hogar cuenta con internet?</string>
